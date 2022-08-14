@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
  [link] (www.patika.dev)
 
- egemen alan
+ 
 
 
 
