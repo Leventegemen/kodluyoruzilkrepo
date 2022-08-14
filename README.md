@@ -27,11 +27,11 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Pitcure
 
-! [projeiçinresim] (Ekran Görüntüsü (1).png)
+! [projeiçinresim] (https://imgyukle.com/i/nRyxry)
 
 
  [link] (www.patika.dev)
- 
+
 
 
 
