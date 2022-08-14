@@ -27,7 +27,16 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Pitcure
 
-! [Projeiçinresim] (http://picsum.photos/200/300)
+! [projeiçinresim] (Ekran Görüntüsü (1).png)
+
+
+ [link] (www.patika.dev)
+ 
+
+
+
+
+
 
 
 
